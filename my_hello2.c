@@ -33,3 +33,12 @@ int dummy3 (int p1) {
     printf("Hello,World"); 
   }
 }
+
+int dummy4 (int p1) {
+  /**
+    @wi MYDO-108
+  */
+  for (int i; i < 10; i++) {
+    printf("Hello,World"); 
+  }
+}
