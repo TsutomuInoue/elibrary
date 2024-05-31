@@ -5,7 +5,13 @@ int main(int argc, char**argv) {
   /**
     @wi MYDO-108
   */
-  while (-1) {
+}
+
+int dummy (int p1) {
+  /**
+    @wi MYDO-108
+  */
+  for (int i; i < 10; i++) {
+    printf("Hello,World"); 
   }
-  return 0; 
 }
