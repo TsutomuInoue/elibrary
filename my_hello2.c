@@ -16,29 +16,3 @@ int dummy (int p1) {
   }
 }
 
-int dummy2 (int p1) {
-  /**
-    @wi MYDO-108
-  */
-  for (int i; i < 10; i++) {
-    printf("Hello,World"); 
-  }
-}
-
-int dummy3 (int p1) {
-  /**
-    @wi MYDO-108
-  */
-  for (int i; i < 10; i++) {
-    printf("Hello,World"); 
-  }
-}
-
-int dummy4 (int p1) {
-  /**
-    @wi MYDO-108
-  */
-  for (int i; i < 10; i++) {
-    printf("Hello,World"); 
-  }
-}
