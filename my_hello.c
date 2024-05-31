@@ -1,9 +1,11 @@
 int main(int argc, char**argv) {
+  for (int i; i < 10; i++) {
+    printf("Hello,World"); 
+  }
   /**
     @wi MYDO-265
   */
-  for (int i; i < 10; i++) {
-    printf("Hello,World"); 
+  while (-1) {
   }
   return 0; 
 }
