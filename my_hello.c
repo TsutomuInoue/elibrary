@@ -9,7 +9,8 @@ int main(int argc, char**argv) {
   }
   return 0; 
 }
-int dommy(int argc, char**argv) {
+
+int dummy(int argc, char**argv) {
   for (int i; i < 10; i++) {
     printf("Hello,World"); 
   }
